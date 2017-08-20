@@ -1,11 +1,18 @@
 Bootstrap 4 - Sublime Snippet ( updated to 4.0.0 beta version )
 =================================================================
 
+
 - Improve development workflow
 - Learn while you coding ( 0 Bootstrap 4 learning required )
 
 ## Setup
 - Download & extract zip inside sublime text "Preferences > Browse Packages" folder
+
+Bootstrap 4 - Demo ( with gulp )
+
+```
+npm install bs4-theme
+```
 
 ## Good News
 Keep adding new snippet inside `bootstrap4-snippet` folder you extracted, or modify existing snippet based on your need
