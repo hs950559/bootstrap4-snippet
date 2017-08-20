@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap4-snippet",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 - Sublime Snippet ( updated to 4.0.0 beta version ) =================================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs950559/bootstrap4-snippet.git"
+  },
+  "keywords": [],
+  "author": "Hemant <hemant.ajax@gmail.com> (https://github.com/hesing)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs950559/bootstrap4-snippet/issues"
+  },
+  "homepage": "https://github.com/hs950559/bootstrap4-snippet#readme"
+}

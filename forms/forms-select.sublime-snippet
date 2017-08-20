@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="${1:fieldId}">Example select</label>
+    <select class="form-control" id="${1:fieldId}">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+        <option>4</option>
+        <option>5</option>
+    </select>
+</div>
+]]></content>
+	<tabTrigger>b4-form:select</tabTrigger>
+  <description>B4 Select</description>
+</snippet>

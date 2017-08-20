@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group">
+    <input type="text" class="form-control" aria-label="Text input with dropdown button">
+    <div class="input-group-btn">
+        <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Action
+        </button>
+        <div class="dropdown-menu dropdown-menu-right ${1:show}">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div role="separator" class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Separated link</a>
+        </div>
+    </div>
+</div>
+]]></content>
+	<tabTrigger>b4-input-group:button-dropdown</tabTrigger>
+  <description>B4 Input Group Button Dropdown</description>
+</snippet>

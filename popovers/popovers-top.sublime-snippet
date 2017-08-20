@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="popover popover-top">
+  <div class="arrow"></div>
+  <h3 class="popover-header">Popover top</h3>
+  <div class="popover-body">
+    <p>Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>b4-popover:top</tabTrigger>
+  <description>B4 Popover Top</description>
+</snippet>

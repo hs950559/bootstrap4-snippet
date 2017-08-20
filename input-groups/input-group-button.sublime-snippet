@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group">
+  <input type="text" class="form-control" placeholder="Search for..." aria-label="Search for...">
+  <span class="input-group-btn">
+    <button class="btn btn-primary">Go!</button>
+  </span>
+</div>
+]]></content>
+	<tabTrigger>b4-input-group:button</tabTrigger>
+  <description>B4 Input Group Button</description>
+</snippet>

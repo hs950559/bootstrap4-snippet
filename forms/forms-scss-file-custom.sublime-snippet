@@ -1,0 +1,17 @@
+<snippet>
+  <content><![CDATA[
+\$custom-file-text: (
+  placeholder: (
+    en: "Choose file...",
+    es: "Seleccionar archivo..."
+  ),
+  button-label: (
+    en: "Browse",
+    es: "Navegar"
+  )
+);
+]]></content>
+  <tabTrigger>b4scss-form:file-custom</tabTrigger>
+  <scope>source.scss, source.css</scope>
+  <description>B4 Scss Custom File</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<input class="form-control form-control-${1:lg|sm}" type="text">
+]]></content>
+	<tabTrigger>b4-form:sizes</tabTrigger>
+  <description>B4 Sizes lg|sm</description>
+</snippet>

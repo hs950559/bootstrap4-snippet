@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav nav-pills">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled" href="#">Disabled</a>
+  </li>
+</ul>
+]]></content>
+	<tabTrigger>b4-nav:pills</tabTrigger>
+  <description>B4 Nav Pills</description>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="dropdown ${1:show}">
+  <button class="btn btn-primary dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu ${1:show}" aria-labelledby="dropdownMenuButton">
+    <h6 class="dropdown-header">Dropdown header</h6>
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item disabled" href="#">Another action</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>b4-dropdown</tabTrigger>
+  <description>B4 Basic Dropdown</description>
+</snippet>

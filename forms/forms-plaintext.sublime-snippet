@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group row">
+	<label for="${1:fieldId}" class="col-sm-2 col-form-label">Email</label>
+	<div class="col-sm-10">
+	  <input type="text" class="form-control-plaintext" id="${1:fieldId}" value="email@example.com">
+	</div>
+</div>
+]]></content>
+	<tabTrigger>b4-form:plaintext</tabTrigger>
+  <description>B4 Plaintext Input</description>
+</snippet>

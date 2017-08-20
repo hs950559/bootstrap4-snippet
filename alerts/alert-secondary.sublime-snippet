@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="alert alert-${1:secondary}" role="alert">
+  This is a secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+]]></content>
+	<tabTrigger>b4-alert:secondary</tabTrigger>
+	<description>B4 Alert Secondary</description>
+</snippet>

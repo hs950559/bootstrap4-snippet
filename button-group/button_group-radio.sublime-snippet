@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group" data-toggle="buttons">
+  <label class="btn btn-${1:primary} active">
+    <input type="radio" checked autocomplete="off"> radio 1 (pre-checked)
+  </label>
+  <label class="btn btn-${1:primary}">
+    <input type="radio" autocomplete="off"> radio 2
+  </label>
+  <label class="btn btn-${1:primary}">
+    <input type="radio" autocomplete="off"> radio 3
+  </label>
+</div>
+]]></content>
+	<tabTrigger>b4-button-group:radio</tabTrigger>
+</snippet>

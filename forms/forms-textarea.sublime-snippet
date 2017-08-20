@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="${1:fieldId}">Example textarea</label>
+    <textarea class="form-control" id="${1:fieldId}" rows="3"></textarea>
+</div>
+]]></content>
+	<tabTrigger>b4-form:textarea</tabTrigger>
+  <description>B4 Textarea</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="btn btn-${1:primary} btn-${2:active|disabled}">${3:Button}</button>]]></content>
+	<tabTrigger>b4-button:state</tabTrigger>
+	<description>B4 Button State active, disabled</description>
+</snippet>

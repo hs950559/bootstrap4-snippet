@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<span class="badge badge-pill badge-${1:primary|secondary|success|info|warning|danger|light|dark}">Primary</span>
+]]></content>
+	<tabTrigger>b4-badge:pill</tabTrigger>
+	<description>B4 Badge with label</description>
+</snippet>

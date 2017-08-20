@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+<table class="table table-${1:inverse|striped|bordered|hover|responsive|sm}">
+  <thead class="thead-${2:default|inverse}">
+    <tr>
+      <th>#</th>
+      <th>First Name</th>
+      <th>Last Name</th>
+      <th>Username</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="table-${3:active|primary|secondary|success|info|warning|danger|light|dark}">
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr class="table-${4:active|primary|secondary|success|info|warning|danger|light|dark}">
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr class="table-${5:active|primary|secondary|success|info|warning|danger|light|dark}">
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
+]]></content>
+	<tabTrigger>b4-table</tabTrigger>
+  <description>B4 Table</description>
+</snippet>

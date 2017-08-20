@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="card" style="width: 20rem;">
+    <div class="card-header">
+        My Header
+    </div>
+    <div class="card-body">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, reprehenderit, accusamus. Alias odio, cupiditate sed, possimus aut quasi ullam. Provident.</p>
+    </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Cras justo odio</li>
+    <li class="list-group-item">Dapibus ac facilisis in</li>
+    <li class="list-group-item">Vestibulum at eros</li>
+  </ul>
+</div>
+]]></content>
+	<tabTrigger>b4-card:list</tabTrigger>
+</snippet>

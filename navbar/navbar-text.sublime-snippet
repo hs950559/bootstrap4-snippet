@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<nav class="navbar navbar-light bg-light justify-content-between">
+  <span class="navbar-text">text would be vertically/horizontally center aligned</span>
+  <form class="form-inline">
+    <button class="btn btn-sm align-middle btn-outline-secondary" type="button">Smaller button</button>
+  </form>
+</nav>
+]]></content>
+	<tabTrigger>b4-navbar:text</tabTrigger>
+  <description>B4 Navbar Button</description>
+</snippet>

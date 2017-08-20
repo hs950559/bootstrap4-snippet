@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title">Special title treatment</h4>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+  <div class="card-footer">
+    Card Footer
+  </div>
+</div>
+]]></content>
+	<tabTrigger>b4-card:footer</tabTrigger>
+  <description>B4 Card Footer</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<nav class="nav nav-pills flex-column flex-sm-row">
+  <a class="text-sm-center nav-link active" href="#">Active</a>
+  <a class="text-sm-center nav-link" href="#">Link</a>
+  <a class="text-sm-center nav-link" href="#">Link</a>
+  <a class="text-sm-center nav-link disabled" href="#">Disabled</a>
+</nav>
+]]></content>
+	<tabTrigger>b4-nav:flex</tabTrigger>
+  <description>B4 Nav Flex</description>
+</snippet>

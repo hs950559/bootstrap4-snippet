@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="${1:fieldId}">Custom select</label>
+    <select class="custom-select d-block" id="${1:fieldId}">
+        <option>Lorem ipsum</option>
+        <option>Lorem ipsum</option>
+        <option>Lorem ipsum</option>
+        <option>Lorem ipsum</option>
+        <option>Lorem ipsum</option>
+    </select>
+</div>
+]]></content>
+	<tabTrigger>b4-form:select-custom</tabTrigger>
+  <description>B4 Custom Select</description>
+</snippet>

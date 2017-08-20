@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+    <label for="${1:fieldId}">Example file input</label>
+    <input type="file" class="form-control-file" id="${1:fieldId}">
+</div>
+]]></content>
+	<tabTrigger>b4-form:file</tabTrigger>
+  <description>B4 File</description>
+</snippet>
