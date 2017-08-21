@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+d-{1:block|inline-block|inline}
+]]></content>
+	<tabTrigger>b4-display</tabTrigger>
+  <description>B4 Display Block, Inlne, Inline Block</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+h-${1:25|50|75|100}
+]]></content>
+	<tabTrigger>b4-height</tabTrigger>
+  <description>B4 Height</description>
+</snippet>

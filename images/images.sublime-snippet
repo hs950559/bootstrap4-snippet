@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+img-${1:fluid|thumbnail}
+]]></content>
+	<tabTrigger>b4-img</tabTrigger>
+  <description>B4 Image Classes</description>
+</snippet>

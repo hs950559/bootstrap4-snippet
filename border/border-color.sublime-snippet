@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:border-primary|border-secondary|border-success|border-info|border-warning|border-danger|border-light|border-dark|border-white}
+]]></content>
+	<tabTrigger>b4-border:color</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Border Color</description>
+</snippet>

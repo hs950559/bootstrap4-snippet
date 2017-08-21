@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:rounded|rounded-top|rounded-right|rounded-bottom|rounded-left|rounded-circle|rounded-0}
+]]></content>
+	<tabTrigger>b4-border:radius</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Border Radius</description>
+</snippet>

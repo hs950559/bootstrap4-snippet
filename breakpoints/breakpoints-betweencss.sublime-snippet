@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@media (min-width: 768px) and (max-width: 1199px) { ... }
+]]></content>
+	<tabTrigger>b4-breakpoint:betweencss</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Breakpoint between for css</description>
+</snippet>

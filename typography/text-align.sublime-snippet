@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+text-${1:XX}-${2:justify|left|center|right}
+]]></content>
+	<tabTrigger>b4-text:align</tabTrigger>
+  <description>B4 Text Align</description>
+</snippet>

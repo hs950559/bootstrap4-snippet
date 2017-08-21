@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:d-flex|d-inline-flex|d-sm-flex|d-sm-inline-flex|d-md-flex|d-md-inline-flex|d-lg-flex|d-lg-inline-flex|d-xl-flex|d-xl-inline-flex}
+]]></content>
+	<tabTrigger>b4-flex</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Flex</description>
+</snippet>

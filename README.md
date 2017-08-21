@@ -217,3 +217,73 @@ b4-alert
 | Snippet                              | Description                           |
 | :-------------                       | :------------------------------------ |
 | b4-table                             | Table                                 |
+
+### Border
+
+| Snippet                             | Description                           |
+| :-------------                      | :-------------------------------------|
+| b4-border                 		  | B4 Border                          |
+| b4-border:color                 	  | Border color classes               |
+| b4-border:radius                 	  | Border rounding classes            |
+
+
+### Flex
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-flex                 		  	| Enable Flex                        |
+| b4-flex:wrap                 		| Flex wrap, nowrap, reverse         |
+| b4-flex:order                 	| Flex Order 1-12                    |
+| b4-flex:direction                 | Flex row/column                    |
+| b4-flex:justify-content           | Horizontal align flex items        |
+| b4-flex:align-items               | Vertically align flex items        |
+| b4-flex:align-content             | Vertically align all flex items together |
+| b4-flex:align-self                | Vertically align individual flex item |
+
+### Images
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-img                 		  	| img-fluid, img-thumbnail              |
+
+
+### Media
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-media                 		  	| Sample Media              			|
+| b4-media:align                 	| Align Media Image            			|
+| b4-media:list                 	| Media List            			|
+
+## Typography
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-heading                 		| h1-h6              			|
+| b4-heading:bigger                 | display-(1-12)              			|
+| b4-text:transform                 | uppercase|lowercase|capitalize        |
+| b4-text:align                     | Text align horizontally        	    |
+| b4-text:align-vertical            | Vertically align text          	    |
+| b4-text:color                     | Text Color        	    |
+| b4-bg:color                       | Background Color        	    |
+| b4-font                           | bold, normal, italic          	    |
+| b4-float                          | left|right|none          	    |
+| b4-width                          | w-(25,50,75,100)     	    |
+| b4-height                         | h-(25,50,75,100)          |
+
+# scss & css only snippet
+
+### Breakpoints
+
+
+| Snippet                             | Description                           |
+| :-------------                      | :-------------------------------------|
+| b4-breakpoint:upcss                 | Breakpoints up for css                |
+| b4-breakpoint:upscss                | Breakpoints up for scss               |
+| b4-breakpoint:downcss               | Breakpoints down for css              |
+| b4-breakpoint:downscss              | Breakpoints down for scss             |
+| b4-breakpoint:onlycss               | Breakpoints only for css              |
+| b4-breakpoint:onlyscss              | Breakpoints only for scss             |
+| b4-breakpoint:betweencss            | Breakpoints between for css           |
+| b4-breakpoint:betweenscss           | Breakpoints between for scss          |
+

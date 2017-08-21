@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:fixed-top|fixed-bottom|sticky-top}
+]]></content>
+	<tabTrigger>b4-position</tabTrigger>
+  <description>B4 Position</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:order-1to12|order-XX-1to12}
+]]></content>
+	<tabTrigger>b4-flex:order</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Flex Order</description>
+</snippet>

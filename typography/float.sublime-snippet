@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+float-${1:XX}-${2:left|right|none}
+]]></content>
+	<tabTrigger>b4-float</tabTrigger>
+  <description>B4 Float</description>
+</snippet>

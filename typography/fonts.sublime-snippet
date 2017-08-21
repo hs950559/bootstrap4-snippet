@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+font-{1:weight-bold|weight-normal|italic}
+]]></content>
+	<tabTrigger>b4-font</tabTrigger>
+  <description>B4 Font</description>
+</snippet>

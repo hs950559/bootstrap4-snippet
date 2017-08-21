@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+@include media-breakpoint-up(xs) { ... } 
+@include media-breakpoint-up(sm) { ... }
+@include media-breakpoint-up(md) { ... }
+@include media-breakpoint-up(lg) { ... }
+@include media-breakpoint-up(xl) { ... }
+
+// Example usage: 
+@include media-breakpoint-up(xs) { // all screen sizes
+    .bg{
+        background-color: red;
+        border: 4px solid red;
+    }
+}
+]]></content>
+	<tabTrigger>b4-breakpoint:upscss</tabTrigger>
+	<scope>source.css, source.scss</scope>
+  <description>B4 Breakpoint up for scss</description>
+</snippet>

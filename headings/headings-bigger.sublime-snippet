@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+display-${1:1234}
+]]></content>
+	<tabTrigger>b4-heading:bigger</tabTrigger>
+  <description>B4 Heading Display</description>
+</snippet>

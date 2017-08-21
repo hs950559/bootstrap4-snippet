@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+text-${1:uppercase|lowercase|capitalize}
+]]></content>
+	<tabTrigger>b4-text:transform</tabTrigger>
+  <description>B4 Text Transform</description>
+</snippet>
