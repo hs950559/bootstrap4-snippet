@@ -3,6 +3,5 @@
 ${1:flex-nowrap|flex-wrap|flex-wrap-reverse|flex-sm-nowrap|flex-sm-wrap|flex-sm-wrap-reverse|flex-md-nowrap|flex-md-wrap|flex-md-wrap-reverse|flex-lg-nowrap|flex-lg-wrap|flex-lg-wrap-reverse|flex-xl-nowrap|flex-xl-wrap|flex-xl-wrap-reverse}
 ]]></content>
 	<tabTrigger>b4-flex:wrap</tabTrigger>
-	<scope>source.css, source.scss</scope>
   <description>B4 Flex Wrap</description>
 </snippet>

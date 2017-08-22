@@ -3,6 +3,5 @@
 ${1:flex-row|flex-row-reverse|flex-column|flex-column-reverse|flex-sm-row|flex-sm-row-reverse|flex-sm-column|flex-sm-column-reverse|flex-md-row|flex-md-row-reverse|flex-md-column|flex-md-column-reverse|flex-lg-row|flex-lg-row-reverse|flex-lg-column|flex-lg-column-reverse|flex-xl-row|flex-xl-row-reverse|flex-xl-column|flex-xl-column-reverse}
 ]]></content>
 	<tabTrigger>b4-flex:direction</tabTrigger>
-	<scope>source.css, source.scss</scope>
   <description>B4 Flex Direction</description>
 </snippet>
