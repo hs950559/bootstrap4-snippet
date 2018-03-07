@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<nav class="nav nav-pills flex-column flex-sm-row">
+<nav class="nav nav-pills flex-${1:''|sm|md|lg|xl}-column flex-sm-row">
   <a class="text-sm-center nav-link active" href="#">Active</a>
   <a class="text-sm-center nav-link" href="#">Link</a>
   <a class="text-sm-center nav-link" href="#">Link</a>

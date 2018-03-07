@@ -49,12 +49,9 @@
         <input type="file" class="form-control-file" id="exampleFormControlFile1">
     </div>
     <div class="form-group">
-        <div class="form-group">
-            <label for="fieldId">Example file input</label>
-            <label class="d-block custom-file">
-              <input type="file" id="file2" class="custom-file-input">
-              <span class="custom-file-control"></span>
-            </label>
+        <div class="custom-file">
+          <input type="file" class="custom-file-input" id="customFile">
+          <label class="custom-file-label" for="customFile">Choose file</label>
         </div>
     </div>
     <div class="form-check">

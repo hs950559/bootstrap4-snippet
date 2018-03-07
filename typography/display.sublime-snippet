@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-d-{1:block|inline-block|inline}
+d-${1:sm|md:lg|xl}-${2:none|inline|block|inline-block|table|table-cell|table-row|flex|inline-flex}
 ]]></content>
 	<tabTrigger>b4-display</tabTrigger>
   <description>B4 Display Block, Inlne, Inline Block</description>

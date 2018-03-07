@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<ul class="list-group">
-  <li class="list-group-item active">Cras justo odio</li>
-  <li class="list-group-item">Dapibus ac facilisis in</li>
-  <li class="list-group-item disabled">Morbi leo risus</li>
-  <li class="list-group-item">Porta ac consectetur ac</li>
-  <li class="list-group-item">Vestibulum at eros</li>
+<ul class="list-group ${1:list-group-flush}">
+  <li class="list-group-item list-group-item-action list-group-item-${2:primary|secondary|success|info|warning|danger|light|dark}">Cras justo odio</li>
+  <li class="list-group-item list-group-item-action active">Dapibus ac facilisis in</li>
+  <li class="list-group-item list-group-item-action disabled">Morbi leo risus</li>
+  <li class="list-group-item list-group-item-action">Porta ac consectetur ac</li>
+  <li class="list-group-item list-group-item-action">Vestibulum at eros</li>
 </ul>
 ]]></content>
 	<tabTrigger>b4-list-group</tabTrigger>

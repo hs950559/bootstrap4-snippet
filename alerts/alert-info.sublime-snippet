@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="alert alert-${1:info}" role="alert">
-  This is a info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-]]></content>
-	<tabTrigger>b4-alert</tabTrigger>
-	<description>B4 Alert Info</description>
-</snippet>

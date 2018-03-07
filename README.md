@@ -32,14 +32,6 @@ b4-alert
 | Snippet                              | Description                           |
 | :-------------                       | :------------------------------------ |
 | b4-alert                             | Basic Alert                           |
-| b4-alert:primary                     | Primary Alert                         |
-| b4-alert:secondary                     | Secondary Alert                         |
-| b4-alert:success                     | Success Alert                         |
-| b4-alert:info                     | Info Alert                         |
-| b4-alert:warning                     | Warning Alert                         |
-| b4-alert:danger                     | Danger Alert                         |
-| b4-alert:light                     | Light Alert                         |
-| b4-alert:dark                     | Dark Alert                         |
 
 ### Badges
 
@@ -113,7 +105,9 @@ b4-alert
 | Snippet                              | Description                           |
 | :-------------                       | :------------------------------------ |
 | b4-form                              | Vertical Form                          |
+| b4-form:inline                       | Inline Form                          |
 | b4-form:horizontal                   | Horizontal Form                          |
+| b4-form:validation                   | Form Validation                         |
 | b4-form:row                          | Form in grid ( less gutter)                          |
 | b4-form:grid                         | Form in grid ( more gutter)                          |
 | b4-form:input                        | Text Field                          |
@@ -163,7 +157,6 @@ b4-alert
 | Snippet                              | Description                           |
 | :-------------                       | :------------------------------------ |
 | b4-modal                             | Simple Modal                          |
-| b4-modal:sizes                       | lg|sm sizes                          |
 
 ### Nav
 
@@ -287,3 +280,13 @@ b4-alert
 | b4-breakpoint:betweencss            | Breakpoints between for css           |
 | b4-breakpoint:betweenscss           | Breakpoints between for scss          |
 
+
+### Some more
+
+| Snippet                             | Description                           |
+| :-------------                      | :-------------------------------------|
+| b4-blockquote                 	  | Blockquote                |
+| b4-summary               			  | HTML5 summary/details               |
+| b4-address                          | Address             |
+| b4-collapse                         | Collapse             |
+| b4-accordian                        | Accordian             |

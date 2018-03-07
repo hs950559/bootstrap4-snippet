@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
-text-${1:muted|primary|secondary|success|danger|warning|info|white|light|dark}
-]]></content>
+<p class="text-${1:primary|secondary|success|danger|warning|info|light|dark|muted|white}">.text-primary</p>]]></content>
 	<tabTrigger>b4-text:color</tabTrigger>
   <description>B4 Color</description>
 </snippet>

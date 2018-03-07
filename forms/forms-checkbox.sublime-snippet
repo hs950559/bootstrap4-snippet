@@ -1,21 +1,21 @@
 <snippet>
 	<content><![CDATA[
 <div class="form-check">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox">
-    Option one is this and that&mdash;be sure to include why it's great
+  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+  <label class="form-check-label" for="defaultCheck1">
+    Default checkbox
   </label>
 </div>
 <div class="form-check">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox">
-    Option one is this and that&mdash;be sure to include why it's great
+  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+  <label class="form-check-label" for="defaultCheck1">
+    Default checkbox
   </label>
 </div>
-<div class="form-check disabled">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox" disabled>
-    Option two is disabled
+<div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="defaultCheck2" disabled>
+  <label class="form-check-label" for="defaultCheck2">
+    Disabled checkbox
   </label>
 </div>
 ]]></content>

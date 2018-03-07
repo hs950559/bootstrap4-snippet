@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<ul class="nav nav-pills">
+<ul class="nav nav-pills nav-fill nav-justified">
   <li class="nav-item">
     <a class="nav-link active" href="#">Active</a>
   </li>

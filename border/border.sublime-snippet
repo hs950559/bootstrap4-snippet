@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-${1:border|border-0|border-top-0|border-right-0|border-bottom-0|border-left-0}
+<span class="${1:border|border-top|right|bottom|left}"></span>		
+<span class="${2:border-0|border-top-0|right-0|bottom-0|left-0}"></span>		
 ]]></content>
 	<tabTrigger>b4-border</tabTrigger>
-	<scope>source.css, source.scss</scope>
   <description>B4 Border</description>
 </snippet>

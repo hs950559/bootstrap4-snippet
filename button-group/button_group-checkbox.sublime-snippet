@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="btn-group" data-toggle="buttons">
+<div class="btn-group btn-group-toggle" data-toggle="buttons">
   <label class="btn btn-${1:primary} active">
     <input type="checkbox" checked autocomplete="off"> Checkbox 1 (pre-checked)
   </label>

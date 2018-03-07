@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<table class="table table-${1:inverse|striped|bordered|hover|responsive|sm}">
-  <thead class="thead-${2:default|inverse}">
+<table class="table table-${1:dark|striped|bordered|hover|responsive|sm|responsive-sm|md|lg|xl}">
+  <thead class="thead-${2:light|dark}">
     <tr>
       <th>#</th>
       <th>First Name</th>

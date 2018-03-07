@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-@include media-breakpoint-down(xs) { ... }
-@include media-breakpoint-down(sm) { ... }
-@include media-breakpoint-down(md) { ... }
-@include media-breakpoint-down(lg) { ... }
+@include media-breakpoint-only(xs) { ... }
+@include media-breakpoint-only(sm) { ... }
+@include media-breakpoint-only(md) { ... }
+@include media-breakpoint-only(lg) { ... }
+@include media-breakpoint-only(xl) { ... }
 ]]></content>
 	<tabTrigger>b4-breakpoint:onlyscss</tabTrigger>
 	<scope>source.css, source.scss</scope>
