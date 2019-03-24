@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="overflow-auto">...</div>
+<div class="overflow-hidden">...</div>
+]]></content>
+	<tabTrigger>b4-overflow</tabTrigger>
+	<description>B4 Overflow</description>
+</snippet>

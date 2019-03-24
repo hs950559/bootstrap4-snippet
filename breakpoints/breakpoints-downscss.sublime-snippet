@@ -4,8 +4,15 @@
 @include media-breakpoint-down(sm) { ... }
 @include media-breakpoint-down(md) { ... }
 @include media-breakpoint-down(lg) { ... }
+// No media query necessary for xl breakpoint as it has no upper bound on its width
+
+// Example: Style from medium breakpoint and down
+@include media-breakpoint-down(md) {
+  .custom-class {
+    display: block;
+  }
+}
 ]]></content>
 	<tabTrigger>b4-breakpoint:downscss</tabTrigger>
-	<scope>source.css, source.scss</scope>
   <description>B4 Breakpoint down for scss</description>
 </snippet>

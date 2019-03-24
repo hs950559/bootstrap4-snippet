@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-<img src="http://lorempixel.com/400/300/" alt="img" class="${1:rounded|rounded-top|rounded-right|rounded-bottom|rounded-left|rounded-circle|rounded-0}"/>
+<img src="http://lorempixel.com/400/300/" alt="img" class="${1:rounded|rounded-top|rounded-right|rounded-bottom|rounded-left|rounded-circle|rounded-pill|rounded-0}"/>
+
+// rounded-sm, rounded-lg for sizing
 ]]></content>
 	<tabTrigger>b4-border:radius</tabTrigger>
   <description>B4 Border Radius</description>

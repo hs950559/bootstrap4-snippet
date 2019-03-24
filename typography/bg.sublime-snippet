@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-bg-${1:primary|secondary|success|danger|warning|info|light|white|dark}
+bg-${1:primary|secondary|success|danger|warning|info|light|dark|white|transparent}
 ]]></content>
 	<tabTrigger>b4-bg:color</tabTrigger>
   <description>B4 Background Color</description>

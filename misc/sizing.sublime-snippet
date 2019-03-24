@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="w-25 p-3 bg-light">Width 25%</div>
+<div class="w-50 p-3 bg-light">Width 50%</div>
+<div class="w-75 p-3 bg-light">Width 75%</div>
+<div class="w-100 p-3 bg-light">Width 100%</div>
+<div class="w-auto p-3 bg-light">Width auto</div>
+
+<div class="bg-light h-25">Height 25%</div>
+<div class="bg-light h-50">Height 50%</div>
+<div class="bg-light h-75">Height 75%</div>
+<div class="bg-light h-100">Height 100%</div>
+<div class="bg-light h-auto">Height auto</div>
+
+]]></content>
+	<tabTrigger>b4-sizing</tabTrigger>
+	<description>B4 Sizing</description>
+</snippet>

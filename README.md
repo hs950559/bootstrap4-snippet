@@ -150,6 +150,7 @@ b4-alert
 | b4-list-group:badge                  | List Group with badges                          |
 | b4-list-group:list                   | List view ( blog )                          |
 | b4-list-group:tab                    | Tab with List Group                          |
+| b4-list-group:horizontal             | Tab with List Group Horizontal        |
 
 
 ### Modals
@@ -264,6 +265,22 @@ b4-alert
 | b4-width                          | w-(25,50,75,100)     	    |
 | b4-height                         | h-(25,50,75,100)          |
 
+
+## Spinner
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-spinner                 		| Simple spinner             			|
+| b4-spinner:color                  | Colored Spinner             			|
+| b4-spinner:growing                | Growing Spinner             			|
+
+## Toast
+
+| Snippet                           | Description                           |
+| :-------------                    | :-------------------------------------|
+| b4-toast                 			| Simple toast             			|
+
+
 # scss & css only snippet
 
 ### Breakpoints
@@ -290,3 +307,12 @@ b4-alert
 | b4-address                          | Address             |
 | b4-collapse                         | Collapse             |
 | b4-accordian                        | Accordian             |
+| b4-overflow                        | Overflow             |
+| b4-shadow                        		| Shadow             |
+| b4-spacing                        | Spacing             |
+| b4-visibility                        | Visibility             |
+
+# Resources
+
+// Sublime text
+https://packagecontrol.io/packages/Bootstrap%204%20Autocomplete

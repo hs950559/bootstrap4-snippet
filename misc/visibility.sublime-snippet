@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="visible">...</div>
+<div class="invisible">...</div>
+]]></content>
+	<tabTrigger>b4-visibility</tabTrigger>
+	<description>B4 Visibility</description>
+</snippet>

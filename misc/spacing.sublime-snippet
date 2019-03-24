@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+mp-${1:trblxy<empty>}-${2:012345auto|n12345}
+]]></content>
+	<tabTrigger>b4-spacing</tabTrigger>
+	<description>B4 Spacing</description>
+</snippet>

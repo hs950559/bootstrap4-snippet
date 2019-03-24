@@ -1,5 +1,10 @@
 <snippet>
 	<content><![CDATA[
+<div class="position-static">...</div>
+<div class="position-relative">...</div>
+<div class="position-absolute">...</div>
+<div class="position-fixed">...</div>
+<div class="position-sticky">...</div>
 ${1:fixed-top|fixed-bottom|sticky-top}
 ]]></content>
 	<tabTrigger>b4-position</tabTrigger>

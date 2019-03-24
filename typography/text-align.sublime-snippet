@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-text-${1:XX}-${2:justify|left|center|right}
+text-${1:XX}-${2:justify|left|center|right|wrap|nowrap|break|lowecase|uppercase|capitalize|decoration-none}
 ]]></content>
 	<tabTrigger>b4-text:align</tabTrigger>
   <description>B4 Text Align</description>

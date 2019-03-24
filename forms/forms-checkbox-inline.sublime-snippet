@@ -1,22 +1,16 @@
 <snippet>
 	<content><![CDATA[
 <div class="form-check form-check-inline">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox">
-    Option one is this and that&mdash;be sure to include why it's great
-  </label>
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+  <label class="form-check-label" for="inlineCheckbox1">1</label>
 </div>
 <div class="form-check form-check-inline">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox">
-    Option one is this and that&mdash;be sure to include why it's great
-  </label>
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+  <label class="form-check-label" for="inlineCheckbox2">2</label>
 </div>
-<div class="form-check form-check-inline disabled">
-  <label class="form-check-label">
-    <input class="form-check-input" type="checkbox" disabled>
-    Option two is disabled
-  </label>
+<div class="form-check form-check-inline">
+  <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" disabled>
+  <label class="form-check-label" for="inlineCheckbox3">3 (disabled)</label>
 </div>
 ]]></content>
 	<tabTrigger>b4-form:checkbox-inline</tabTrigger>

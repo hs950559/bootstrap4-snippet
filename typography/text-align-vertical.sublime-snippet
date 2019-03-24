@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-align-${1:baseline|top|bottom|text-top|text-bottom}
+align-${1:baseline|top|middle|bottom|text-top|text-bottom}
 ]]></content>
 	<tabTrigger>b4-text:align-vertical</tabTrigger>
   <description>B4 Text Align Vertical</description>
